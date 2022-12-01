@@ -1,0 +1,38 @@
+ body{
+    background-color: rgb(11, 11, 34);
+ }
+ 
+ .titulo{
+    text-align: center;
+    color: rgb(0, 199, 66);
+    padding-top: 100px;
+    font-size: 60px
+}
+
+.apresentacao{
+   color: rgb(255, 255, 255);
+   padding: 0px;
+   padding-left: 125px;
+   display: block;
+   font-size: 30px
+}
+
+#apresentacaoum{
+   padding-top: 20px;
+}
+
+.subapresentacao{
+   color: rgb(255, 255, 255);
+   padding-top: 10px;  
+   display: block;
+   width: 350px;
+   padding-left: 225px;
+   font-size: 20px 
+}
+
+.redesocial{
+   width: 50px;
+   height: 50px;
+   padding-left: 125px;
+   padding-top: 25px;
+}
